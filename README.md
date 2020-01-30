@@ -1,8 +1,10 @@
 # djangoTime
 
-1. Install all requirements using
-2. pip install requirements.txt
-3. python manange.py migrate
+1. git clone https://github.com/SimiHack/djangoTime.git
+2. Install all requirements using below command
+   pip install requirements.txt
+3. change dir using cd PunchInOut
+  python manange.py migrate
 4. python manage.py createsuperuser
 -> enter user and passward
 5. python manage.py runserver
